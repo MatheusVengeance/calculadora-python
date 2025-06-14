@@ -17,11 +17,7 @@ Ela permite realizar operações matemáticas básicas como:
 
 ## Rodar no Google Colab
 
-Você pode testar este código direto no navegador usando o Google Colab, que permite rodar código Python sem precisar instalar nada no seu computador.
+Se preferir, você pode rodar o código direto no navegador usando o Google Colab.  
+Acesse o link abaixo, cole o código da calculadora e execute:
 
-Clique no link abaixo para abrir um notebook com o código:
-
-[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatheusVengeance/calculadora-python/blob/main/calculadora_colab.ipynb)
-
-python calculadora.py
-
+🔗 [Abrir o Google Colab](https://colab.research.google.com/)
